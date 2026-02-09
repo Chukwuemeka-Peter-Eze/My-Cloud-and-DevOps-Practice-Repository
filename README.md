@@ -88,4 +88,4 @@ This repository is more than just practice, it represents my journey from beginn
 If you’re a learner, feel free to fork and practice along.
 If you’re a recruiter or hiring manager, this repo reflects my commitment, consistency, and ability to apply concepts in real-world scenarios.
 
-Learning never stops, and this repository is living proof.
+Learning never stops, and this repository is a living proof.
