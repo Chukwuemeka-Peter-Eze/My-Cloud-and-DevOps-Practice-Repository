@@ -1,1 +1,10 @@
+git init
+git add .
+git status
+git commit -m "Commit message"
+git remote origin main https://github.com/Chukwuemeka-Peter-Eze/My-Cloud-and-DevOps-Practice-Repository.git
+git push origin main
+git status
+git log
+git merge
 
